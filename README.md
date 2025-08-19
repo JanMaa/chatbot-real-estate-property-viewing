@@ -1,6 +1,18 @@
 # 🏡 Real Estate Property Viewing Automation Bot  
 
-This project is a **Real Estate Chatbot** built using **Botpress**, designed to help users search for properties, schedule property viewings, and get answers to real estate-related questions.  
+This project is a **Real Estate Chatbot** built using **Botpress**, designed to help users search for properties, schedule property viewings, and get answers to real estate-related questions. 
+
+This chatbot helps simplify the real estate process by allowing users to:
+
+- 🔍 **Search Properties** – Browse available listings based on user needs.  
+- 📅 **Schedule Property Viewings** – Book appointments easily by providing contact details and preferred dates.  
+- ❓ **Ask Real Estate Questions** – Get quick answers to general property-related queries.  
+
+## 🌟 How It Works
+1. User starts a conversation.  
+2. Chooses whether to **search properties**, **book a viewing**, or **ask a question**.  
+3. The bot guides the user through the process, displays results, and collects booking details.  
+4. Viewing requests are automatically logged into Google Sheets for easy tracking.  
 
 ## 🚀 Features  
 
@@ -52,6 +64,8 @@ Below is the visual workflow of this chatbot:
    - **Google Sheets API** → Enable and connect for data logging.  
 4. Test the bot with the built-in emulator.  
 5. Deploy to your website, WhatsApp, Messenger, or other supported channels.  
+
+This bot provides a smooth and automated experience for anyone looking to explore or schedule property visits.
 
 ## ✅ Future Improvements  
 
